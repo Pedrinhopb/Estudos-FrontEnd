@@ -1,0 +1,34 @@
+Página Principal da UNES
+
+------------------------
+
+  Este é um projeto simples de uma página HTML para a Universidade Nome da Universidade (UNES). A página é simples, mas eficaz, com uma aparência agradável e uma navegação fácil.
+
+------------------------
+
+Características:
+
+  Uma página principal com uma imagem de fundo e uma imagem de capa.
+  Uma seção "Sobre a universidade" com dois parágrafos de texto.
+  Um menu de navegação simples com links para a página inicial, sobre a universidade e contato.
+  Um rodapé com uma declaração de direitos autorais.
+
+------------------------
+
+Tecnologias utilizadas:
+
+  HTML
+  CSS (através de atributos de estilo embutidos)
+
+------------------------
+
+Como usar:
+
+  Faça o download ou clone o repositório.
+    Abra o arquivo index.html em um navegador web.
+  Explore a página e seus links.
+
+------------------------
+
+Contribuição
+Este é um projeto simples e não está aberto para contribuições. No entanto, se você encontrar algum problema ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue.
